@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HTTPLink</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="city">城市天氣</string>
+    <string name="search">查詢</string>
+    <string name="cin">要查詢天氣的城市</string>
+
+</resources>
